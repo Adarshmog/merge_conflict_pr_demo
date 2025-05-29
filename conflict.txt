@@ -1,1 +1,2 @@
-this line was edited by feature
+This line was edited in both branches and now resolved
+
